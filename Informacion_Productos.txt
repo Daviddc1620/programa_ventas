@@ -1,0 +1,5 @@
+123,audifonos,40000
+124,teclado,60000
+125,cargador,80000
+
+
