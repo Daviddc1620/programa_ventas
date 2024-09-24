@@ -2,3 +2,4 @@ cc,	1012	,	david,	cardenas
 cc,	42160	,	carolina,	baron
 nit,	801253,	widete,	carlos
 1012347037,	1012347037	,	David	,	Cardenas	
+1012347037,	1012347037,	 David 	,	 Cardenas	
